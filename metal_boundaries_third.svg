@@ -51,19 +51,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12148927"
-     inkscape:cx="29.001599"
+     inkscape:cx="-1555.5005"
      inkscape:cy="2086.4608"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
      showborder="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-intersection-paths="false"
-     inkscape:window-width="1458"
-     inkscape:window-height="1099"
+     inkscape:window-width="2048"
+     inkscape:window-height="1124"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:object-nodes="false"
      inkscape:lockguides="false"
@@ -96,7 +96,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Background"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:0.935976;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.426;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -110,7 +110,7 @@
      inkscape:label="sectors"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
@@ -332,7 +332,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="circles"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        id="g3168"
@@ -567,7 +567,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Words"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -815,7 +815,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Menu"
-     style="display:inline"
+     style="display:none;opacity:0.446945"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
