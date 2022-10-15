@@ -1,0 +1,74 @@
+#backdrop-circle {
+    fill: #d8d2d223;
+}
+
+.marker_circle {
+    fill-opacity: 0%;
+    stroke: lightgray;
+}
+
+.major {
+    stroke-width: 2;
+}
+
+.minor {
+    stroke-width: 2;
+}
+
+.gridlines_minor {
+    stroke-width: 1px;
+    stroke: lightgray;
+}
+
+.gridlines_major {
+    stroke-width: 2px;
+    stroke: lightgray;
+    stroke-linecap: round;
+}
+
+path.metals {
+    fill: url(#metals-gradients);
+}
+
+path.energies {
+    fill: url(#energies-gradients);
+}
+
+path.planet_boundaries {
+    fill: url(#planet_boundaries-gradients);
+}
+
+
+/* 
+For Nature Fig.
+*/
+
+path.boundaries-biophisical {
+    fill: #009900;
+}
+
+path.boundaries-parallel-human {
+    fill: #999900;
+}
+
+path.boundaries-reactive-human {
+    fill: #1a1aff;
+}
+
+path.boundaries-direct-human {
+    fill: #666666;
+}
+
+.boundary-value {
+    stroke: #fe0303;
+    fill: #fe0303;
+}
+
+.category-text {
+    fill: white;
+    font: 24px sans-serif;
+}
+
+.sub_cat-text {
+    font: 10px sans-serif;
+}
