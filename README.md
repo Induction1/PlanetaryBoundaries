@@ -1,4 +1,4 @@
-# Enhanced Planetary Boundaries
+# Extending Planetary Boundaries with Nonrenewable Energies and Critical Metals Boundaries
 
 This research project is about creating an enhanced Planetary Boundaries with detailed information of nonrenewable energy stocks and critical metal consumptions.<br> 
 The main doc link for research collaboration is [here](https://docs.google.com/spreadsheets/d/1BQxb_64Y3AaJucbi4gKFQSzHyF9mcKbcQFAaD9j6oKM/edit?usp=sharing) which was used for discussion with Professor Thomas Gregor and sharing the data discovered in the research.
